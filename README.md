@@ -6,14 +6,14 @@ This repository contains the experimental materials, dataset references, tested 
 
 The study focuses on comparing publicly available mobile applications designed to support the early detection of skin cancer. The main purpose is to evaluate how consistently these applications respond when the same skin lesion images are tested multiple times under identical conditions.
 
-> ⚠️ **Disclaimer:**  
+> **Disclaimer:**  
 > This project is for academic and research purposes only.  
 > The evaluated applications and results should not be used as a medical diagnosis.  
 > Always consult a qualified dermatologist or healthcare professional for medical concerns.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Skin cancer, especially melanoma, can be dangerous if it is not detected at an early stage. With the increasing use of smartphones, many mobile applications now allow users to photograph skin lesions and receive a risk-based assessment.
 
@@ -28,13 +28,13 @@ The project evaluates selected mobile applications according to the following cr
 
 ---
 
-## 🎯 Aim of the Study
+## Aim of the Study
 
 The aim of this study is to evaluate and compare existing mobile applications designed for early skin cancer detection, focusing on their consistency, usability, processing speed, and clarity of information provided to users.
 
 ---
 
-## 📱 Tested Mobile Applications
+## Tested Mobile Applications
 
 The following mobile applications were selected and tested:
 
@@ -48,7 +48,7 @@ These applications were selected because they are publicly available and provide
 
 ---
 
-## 🧪 Dataset
+## Dataset
 
 The images used in this project were selected from a publicly available skin lesion image dataset.
 
